@@ -1,0 +1,25 @@
+/* 
+    Created on : 28/03/2021, 16:21:47
+    Author     : samantamartins
+*/
+header {
+    background-color: #d70000;
+}
+
+footer {
+    background-color: #d70000;
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:100%;
+    text-align: center;
+    color: #fff;
+}
+
+span {
+    color: #fff;
+}
+
+h2, p {
+    text-align: center;
+}
